@@ -1,0 +1,9 @@
+# TensorScript Compiler has no external dependencies
+# Uses only Python standard library (3.7+)
+
+# Optional: For running generated CUDA code
+# CUDA Toolkit 10.0+
+# NVIDIA GPU with compute capability 7.0+
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For more advanced testing
